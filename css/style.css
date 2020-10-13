@@ -1,0 +1,129 @@
+/*GLOBAL CSS*/
+/*GLOBAL CSS*/
+
+/*TYPOGRAPHY*/
+p{
+    font-size: 14px;
+    color: #8f8f8f;
+}
+/*TYPOGRAPHY*/
+
+/*HEADER CSS*/
+header{
+    background: #FFFFFF;
+}
+.navbar-toggler-icon{
+    color: black;
+}
+header ul li a{
+    font-size: 16px;
+    color: #8f8f8f;
+    font-weight: 500;
+}
+/*HEADER CSS*/
+
+/*BANNER CSS*/
+
+.banner-btn{
+    margin: 50px;
+    padding: 15px 25px;
+    color: white;
+    background: #99C50A;
+}
+.banner-btn:hover{
+
+    background: #5a720b;
+}
+.carousel-item{
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.slider-content{ 
+    align-items: center;
+    height: 70vh;
+    width: 100%;
+    color: rgb(50, 160, 250);
+}
+.carousel-control-prev-icon , .carousel-control-next-icon{
+    color: #515151 !important;
+}
+/*BANNER CSS*/
+
+/*ABOUT CSS*/
+.about{
+    padding: 100px 0px;
+}
+/*ABOUT CSS*/
+
+/*SELL CSS*/
+.sell{
+    padding: 100px 0px;
+}
+.sell-pic{
+    margin-bottom: 50%;
+    transform: translateY(50%);
+    -webkit-transform: translateY(50%);
+    -moz-transform: translateY(50%);
+}
+
+.sell-properties-button{
+    background: #26A6D1;
+    padding: 15px 25px;
+    color: white;
+}
+.sell-buyers-button{
+    background: #ADD136;
+    padding: 15px 25px;
+    color: white;
+}
+/*SELL CSS*/
+
+/*PROJECT CSS*/
+.project{
+    padding: 100px 0px;
+}
+.project-button{
+    background: white;
+    border: 1px solid #515151;
+    color: #515151;
+    padding: 10px 20px;
+}
+.project-button:hover{
+    background-color: rgb(96, 96, 96);
+    transition: 0.6s;
+    color: white;
+    -webkit-animation: 0.6s;
+    -moz-animation: 0.6s;
+}
+.fa-caret-right{
+    color: #ADD136;
+    font-size:20px;
+    margin: 0px 15px;
+}
+.card{
+    max-width: 100%;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+/*PROJECT CSS*/
+
+
+/*FOOTER CSS*/
+.footer-bottom{
+    text-align: center;
+    border-top: 1px solid #515151;
+    padding: 10px 0px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
